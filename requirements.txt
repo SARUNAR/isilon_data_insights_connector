@@ -6,3 +6,4 @@ isi_sdk_8_0 >= 0.1.2
 isi_sdk_7_2 >= 0.1.2
 Equation >= 1.2.01
 gevent >= 1.2.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
